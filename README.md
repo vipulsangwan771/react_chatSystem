@@ -109,14 +109,6 @@ npm start
 
 ---
 
-## 🖼️ Screenshots
-
-Modern chat interface with real-time messaging.
-
-> 💡 *Replace `client/public/screenshot.png` with an actual screenshot or GIF.*
-
----
-
 ## 🌐 Deployment
 
 ### ✨ Frontend (Vercel / Netlify)
