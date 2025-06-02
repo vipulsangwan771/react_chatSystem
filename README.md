@@ -4,9 +4,9 @@ A real-time chat application built with React, Tailwind CSS, Node.js, Express, a
 Features
 
 Real-time messaging powered by Socket.IO
-Responsive and intuitive UI with React and Tailwind CSS
-Robust backend API using Node.js and Express
-User join/leave notifications
+Responsive UI built with React and Tailwind CSS
+Robust backend using Node.js and Express
+User notifications for join/leave events
 Scalable architecture for future enhancements
 
 Tech Stack
@@ -39,7 +39,6 @@ react_chatSystem/
 │       ├── App.jsx         # Main app component
 │       └── index.js        # Entry point
 ├── server/                 # Node.js backend
-│Jon/leave notifications
 │   ├── index.js            # Express server
 │   └── socket.js           # Socket.IO logic
 ├── .gitignore              # Ignored files
