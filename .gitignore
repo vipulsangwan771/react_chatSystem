@@ -1,11 +1,12 @@
 # Ignore node_modules
 node_modules/
 
-# Ignore all .env files
+# Ignore all environment variable files
 .env
 .env.*
+!.env.example  # (optional) keep a sample env file for reference
 
-# Optional: Also ignore specific environment files
+# Ignore specific environment files (redundant with .env.*, but explicit)
 .env.local
 .env.development
 .env.development.local
